@@ -199,7 +199,7 @@ if (require.main === module) {
     }
 
     // Analizar el sitio web y mostrar los resultados
-    console.error('🚀 Iniciando análisis...\n');
+    console.error('Iniciando análisis...\n');
     
     const inicio = Date.now();
     scrapeWebsite(url)

@@ -53,5 +53,4 @@ Si tienes alguna pregunta o sugerencia, por favor abre un issue en el repositori
 
 ## 📝 Autor
 
-***
 German J.
